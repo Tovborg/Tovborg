@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">A full-stack and machine learning developer from Copenhagen, Denmark</h3>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently expanding my Tensorflow skills
 
 - 📫 How to reach me **emil@tovborg-jensen.dk**
 
