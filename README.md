@@ -6,7 +6,7 @@ Back-end dev and ML Engineer
 
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [emil@tovborg-jensen.dk](mailto:emil@tovborg-jensen.dk)
-* 🚀  I'm currently working on [LectioScraper](http://github.com/Tovborg/LectioScraper)
+* 🚀  I'm currently working through Codecademys "Data Science: Machine Learning Specialty" Course
 * 🧠  I'm learning Tensorflow, and Data Science
 * 🤝  I'm open to collaborating on LectioScraper
 
