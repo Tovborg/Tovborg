@@ -7,7 +7,6 @@ Data Scientist: ML Engineer
 * ✉️  You can contact me at [emil@tovborg-jensen.dk](mailto:emil@tovborg-jensen.dk)
 * 🚀  I'm currently working through Codecademys "Data Science: Machine Learning Specialty" Course
 * 🧠  I'm learning Tensorflow, and Data Science
-* 🤝  I'm open to collaborating on LectioScraper
 
 ### Skills
 
