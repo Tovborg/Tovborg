@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emil
 ===========================================================================================================================================
-Data Scientist: ML Engineer
+Software Developer
 ----------------------------
 
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [emil@tovborg-jensen.dk](mailto:emil@tovborg-jensen.dk)
-* 🚀  I'm currently working on learning Torch and Computer Vision
+* 🚀  I'm currently working on my project FinanceTracker with Django and Tailwind
 
 ### Skills
 
