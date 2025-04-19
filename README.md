@@ -5,7 +5,7 @@ Software Developer
 
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [emil@tovborg-jensen.dk](mailto:emil@tovborg-jensen.dk)
-* 🚀  I'm currently working on learning express.js
+* 🚀  I'm currently working on Studiefinder — AI Guidance for students
 
 ### Skills
 
